@@ -25,4 +25,5 @@
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>]|
+| <img src="https://github.com/AlamillaAx/MoneyMorpher/assets/86985427/f3a45610-9836-4483-bfdb-3731c69d5c6f" width=115><br><sub>Axel Alamilla</sub>|
+| ------------- |
