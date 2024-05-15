@@ -23,6 +23,10 @@
 <p>Aplicativo desarrollado como desafio durante el curso de backend de Alura Latam. </p>
 <p>El desafio consitio en el desarrollo de un aplicativo que permitiera a un usuario realizar una serie de conversiones de moneda segun la opcion que el prefiera, asi como durante el uso y final del aplicativo mostrar el historial de estas conversiones.</p>
 
+## :hammer:Funcionalidades del proyecto
+
+## Tecnologias utilizadas
+* JAVA
 ## Autor
 
 | <img src="https://github.com/AlamillaAx/MoneyMorpher/assets/86985427/f3a45610-9836-4483-bfdb-3731c69d5c6f" width=115><br><sub>Axel Alamilla</sub>|
